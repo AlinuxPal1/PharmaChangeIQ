@@ -1,0 +1,21 @@
+risk_areas:
+  Regulatory Impact: 0.30
+  QA Impact: 0.25
+  Safety Impact: 0.20
+  Labelling Impact: 0.15
+  Supply Chain Impact: 0.05
+  Business Continuity Impact: 0.05
+
+classification_thresholds:
+  Minor Change:
+    min: 0.0
+    max: 1.4
+  Moderate Change:
+    min: 1.5
+    max: 2.4
+  Major Change:
+    min: 2.5
+    max: 3.4
+  Critical Change:
+    min: 3.5
+    max: 4.0

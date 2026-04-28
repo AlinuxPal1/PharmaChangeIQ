@@ -1,0 +1,6 @@
+value,description
+Yes,Confirmed positive answer
+No,Confirmed negative answer
+Partial,Partially available or partially applicable
+Unknown,Information not available at intake stage
+Probably,Likely applicable but requiring functional confirmation

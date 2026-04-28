@@ -1,0 +1,6 @@
+impact_level,score,description
+None,0,No relevant impact identified
+Low,1,Limited impact with minimal documentation burden
+Moderate,2,Relevant impact requiring structured review
+High,3,Significant impact requiring functional assessment and approval
+Critical,4,Potentially critical impact requiring escalation before implementation
