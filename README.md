@@ -8,7 +8,7 @@ The project simulates a realistic change-control workflow in which a proposed pr
 
 ### Excel dashboard
 
-![Excel dashboard](assets/screenshots/Excel_dashboard.png)
+![Excel dashboard](assets/screenshots/Excel_dashboard%20.png)
 
 ### HTML portfolio report
 
